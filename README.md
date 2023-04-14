@@ -2,6 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitcodefallingofthescreen&label=Profile%20views&color=0e75b6&style=flat" alt="bitcodefallingofthescreen" /> </p>
 
+<p align="left"> <img src="https://i.ibb.co/d5cbFfL/banner.png" alt="Heya!" width="480" height="200"/> </a>
+
+
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my arts are available at [ArtStation](https://www.artstation.com/bitcode_art) // [Instagram](https://www.instagram.com/bitcode_art/)
