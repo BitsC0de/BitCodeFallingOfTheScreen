@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://i.ibb.co/d5cbFfL/banner.png" alt="Heya!" width="480" height="200"/> </a>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML**
 
 - 👨‍💻 All of my arts are available at [ArtStation](https://www.artstation.com/bitcode_art) // [Instagram](https://www.instagram.com/bitc0de_art/)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: 
 
-- ⚡ Fun fact: **I hate tomatos // VALORANT/OSU! PLAYER YEYEY //**
+- ⚡ Fun fact: **I hate tomatos // VALORANT/OSU! player YEYEY //**
 
 <h3 align="left">Social Media:</h3>
 <p align="left"> 
