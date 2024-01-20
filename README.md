@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my arts are available at [ArtStation](https://www.artstation.com/bitcode_art) // [Instagram](https://www.instagram.com/bitcode_art/)
+- 👨‍💻 All of my arts are available at [ArtStation](https://www.artstation.com/bitcode_art) // [Instagram](https://www.instagram.com/bitc0de_art/)
 
 - 👨‍💻 All of my projects are available at [-](https://-) // [-](-)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Social Media:</h3>
 <p align="left"> 
-<p align="left"> <a href="https://instagram.com/@bitc0de_art" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bitcode_art" width="30" height="40"/> </a> <a href="https://www.artstation.com/bitcode_art" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/XZkx6Xj/27-Artstation-logo-logos-512.webp" alt="bitcode_art" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://instagram.com/@bitc0de_art" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bitc0de_art" width="30" height="40"/> </a> <a href="https://www.artstation.com/bitcode_art" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/XZkx6Xj/27-Artstation-logo-logos-512.webp" alt="bitcode_art" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
